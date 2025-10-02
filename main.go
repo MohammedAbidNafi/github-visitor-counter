@@ -10,8 +10,6 @@ import (
 	"os"
 	"time"
 
-	"github.com/joho/godotenv"
-
 	"github.com/gofiber/fiber/v2"
 	"github.com/supabase-community/supabase-go"
 )
@@ -19,11 +17,6 @@ import (
 var client *supabase.Client
 
 func main() {
-
-	err_env := godotenv.Load()
-	if err_env != nil {
-		log.Fatalf("Error loading .env file: %v", err_env)
-	}
 
 	url := os.Getenv("SUPABASE_URL")
 	key := os.Getenv("SUPABASE_KEY")
