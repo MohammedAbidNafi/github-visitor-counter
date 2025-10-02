@@ -30,6 +30,8 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ![Profile Views](https://viewcounter.live/johndoe)
 ```
 
+[Profile Views](https://viewcounter.live/MohammedAbidNafi)
+
 ### Repository-Specific Counter
 
 ```markdown
