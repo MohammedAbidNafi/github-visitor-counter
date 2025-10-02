@@ -30,8 +30,6 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ![Profile Views](https://viewcounter.live/johndoe)
 ```
 
-![Profile Views](https://viewcounter.live/MohammedAbidNafi)
-
 ### Repository-Specific Counter
 
 ```markdown
@@ -91,11 +89,15 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ?bg_color=0366d6&text_color=FFFFFF
 ```
 
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=0366d6&text_color=FFFFFF)
+
 ### Success Green
 
 ```
 ?bg_color=28a745&text_color=FFFFFF
 ```
+
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=28a745&text_color=FFFFFF)
 
 ### Dark Theme
 
@@ -103,17 +105,23 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ?bg_color=24292e&text_color=FFFFFF
 ```
 
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=24292e&text_color=FFFFFF)
+
 ### Warning Orange
 
 ```
 ?bg_color=fd7e14&text_color=FFFFFF
 ```
 
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=fd7e14&text_color=FFFFFF)
+
 ### Purple
 
 ```
 ?bg_color=6f42c1&text_color=FFFFFF
 ```
+
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=6f42c1&text_color=FFFFFF)
 
 ## 📊 Display Format
 
@@ -130,6 +138,8 @@ You can combine multiple parameters using `&`:
 ```markdown
 ![Custom Counter](https://viewcounter.live/username?label=Total%20Views&repo=project&digits=5&bg_color=FF6B6B&text_color=FFFFFF&rounded=true&unique=true&days=365)
 ```
+
+![Custom Counter](https://viewcounter.live/username?label=Total%20Views&repo=project&digits=5&bg_color=FF6B6B&text_color=FFFFFF&rounded=true&unique=true&days=365)
 
 ## 💡 Tips
 
