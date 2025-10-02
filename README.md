@@ -81,6 +81,8 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ![Views](https://viewcounter.live/MohammedAbidNafi?digits=4&bg_color=000000&text_color=FFFFFF)
 ```
 
+![Views](https://viewcounter.live/MohammedAbidNafi?digits=4&bg_color=000000&text_color=FFFFFF)
+
 ## 🌈 Popular Color Schemes
 
 ### GitHub Blue
@@ -89,7 +91,7 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ?bg_color=0366d6&text_color=FFFFFF
 ```
 
-![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=0366d6&text_color=FFFFFF)
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter&bg_color=0366d6&text_color=FFFFFF)
 
 ### Success Green
 
@@ -97,7 +99,7 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ?bg_color=28a745&text_color=FFFFFF
 ```
 
-![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=28a745&text_color=FFFFFF)
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter&bg_color=28a745&text_color=FFFFFF)
 
 ### Dark Theme
 
@@ -105,7 +107,7 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ?bg_color=24292e&text_color=FFFFFF
 ```
 
-![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=24292e&text_color=FFFFFF)
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter&bg_color=24292e&text_color=FFFFFF)
 
 ### Warning Orange
 
@@ -113,7 +115,7 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ?bg_color=fd7e14&text_color=FFFFFF
 ```
 
-![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=fd7e14&text_color=FFFFFF)
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter&bg_color=fd7e14&text_color=FFFFFF)
 
 ### Purple
 
@@ -121,7 +123,7 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 ?bg_color=6f42c1&text_color=FFFFFF
 ```
 
-![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter?bg_color=6f42c1&text_color=FFFFFF)
+![Repo Views](https://viewcounter.live/MohammedAbidNafi?repo=github-visitor-counter&bg_color=6f42c1&text_color=FFFFFF)
 
 ## 📊 Display Format
 
