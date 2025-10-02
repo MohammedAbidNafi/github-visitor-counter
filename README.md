@@ -4,28 +4,7 @@ A free service to track and display visitor counts on your GitHub profile and re
 
 ## 🚀 Quick Start
 
-Simply add this to your Git## 🙏 Acknowledgments
-
-- Built with ❤️ using [Go](https://golang.org/) and [Fiber](https://gofiber.io/) web framework
-- Database powered by [Supabase](https://supabase.com/) - The open source Firebase alternative
-- Deployed and hosted on [Railway](https://railway.app/) - Modern application deployment platform
-- Inspired by the community need for simple, privacy-focused visitor tracking
-- Thanks to all contributors and users who help improve this service
-- Special thanks to the open source community for making tools like this possible
-
-## � Support This Project
-
-If you find this service useful, consider supporting its development and hosting costs:
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MohammedAbidNafi)
-
-Your support helps keep this service free for everyone! 🙏
-
-## �📄 License
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Links
+Simply add this to your GitHub README:
 
 ```markdown
 ![Profile Views](https://viewcounter.live/your-github-username)
@@ -40,7 +19,7 @@ Replace `your-github-username` with your actual GitHub username and you're done!
 - 📅 **Time-based filtering** (last N days)
 - 🎨 **Fully customizable** colors and styling
 - 📍 **Repository-specific** counters
-- �️ **SVG format** - works everywhere
+- 🖼️ **SVG format** - works everywhere
 - 🆓 **Completely free** to use
 
 ## 📖 Usage Examples
@@ -230,19 +209,28 @@ You can combine multiple parameters using `&`:
 - No rate limits
 - Works in all README files, wikis, and markdown documents
 
-## � Acknowledgments
+## 🙏 Acknowledgments
 
 - Built with ❤️ using [Go](https://golang.org/) and [Fiber](https://gofiber.io/) web framework
 - Database powered by [Supabase](https://supabase.com/) - The open source Firebase alternative
+- Deployed and hosted on [Railway](https://railway.app/) - Modern application deployment platform
 - Inspired by the community need for simple, privacy-focused visitor tracking
 - Thanks to all contributors and users who help improve this service
 - Special thanks to the open source community for making tools like this possible
+
+## 💖 Support This Project
+
+If you find this service useful, consider supporting its development and hosting costs:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MohammedAbidNafi)
+
+Your support helps keep this service free for everyone! 🙏
 
 ## 📄 License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-## � Links
+## 🔗 Links
 
 - 🌐 **Live Service**: [viewcounter.live](https://viewcounter.live)
 - 📂 **Source Code**: [GitHub Repository](https://github.com/MohammedAbidNafi/github-visitor-counter)
