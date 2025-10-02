@@ -13,13 +13,19 @@ Simply add this to your Git## 🙏 Acknowledgments
 - Thanks to all contributors and users who help improve this service
 - Special thanks to the open source community for making tools like this possible
 
-## 💖 Support This Project
+## � Support This Project
 
 If you find this service useful, consider supporting its development and hosting costs:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MohammedAbidNafi)
 
-Your support helps keep this service free for everyone! 🙏DME:
+Your support helps keep this service free for everyone! 🙏
+
+## �📄 License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 Links
 
 ```markdown
 ![Profile Views](https://viewcounter.live/your-github-username)
