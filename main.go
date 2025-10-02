@@ -105,6 +105,9 @@ func trackAndRender(c *fiber.Ctx) error {
 
 	svg := buildSVG(label, count, bgColor, textColor, rounded, digits)
 	c.Set("Content-Type", "image/svg+xml")
+	c.Set("Cache-Control", "no-cache, no-store, must-revalidate")
+	c.Set("Pragma", "no-cache")
+	c.Set("Expires", "0")
 	return c.SendString(svg)
 }
 
